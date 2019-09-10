@@ -5,12 +5,12 @@ $active_group = 'default';
 $query_builder = TRUE;
 
 $db['default'] = array(
-	'dsn'	=> 'mysql:host=localhost;dbname=c0litbang',
+	'dsn'	=> 'mysql:host=localhost;dbname=litbang.tanjabtimkab.go.id',
 	//'dsn'	=> '',
 	'hostname' => 'localhost',
-	'username' => 'c0litbang',
-	'password' => 'YVYh2sJqkKr@',
-	'database' => 'c0litbang',
+	'username' => 'root',
+	'password' => 'toor@',
+	'database' => 'litbang.tanjabtimkab.go.id',
 	//'dbdriver' => 'mysqli',
 	'dbdriver' => 'pdo',
 	'dbprefix' => '',
