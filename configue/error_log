@@ -1,0 +1,1 @@
+[12-Nov-2013 03:55:25 Asia/Jakarta] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home/perisain/public_html/harianjambi.com/configue/koneksi.php on line 12

@@ -1,0 +1,16 @@
+Options -Indexes
+DirectoryIndex index.php
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+    RewriteCond %{REQUEST_FILENAME} !-f
+    RewriteCond %{REQUEST_FILENAME} !-d
+    RewriteCond $1 !^(index\.php|update\.php|administrator\.php|assets|admin|robots\.txt|favicon\.ico)
+    RewriteRule ^(.*)$ index.php/$1 [L]
+
+	RewriteCond %{REQUEST_URI} \.(doc|php|com|db|htm|ini|txt|ico|odt|gif|tiff|py|fla|swf|log|sh|bash_history|c|exe|xml|odt)$ [NC]
+	#RewriteCond %{REQUEST_URI} \.(doc|php|com|db|html|htm|ini|txt|ico|odt|gif|tiff|py|fla|swf|log|sh|bash_history|c|exe|xml|odt)$ [NC]
+	RewriteRule ^(.*)$ download/$1/$2 [L]
+
+	RewriteCond %{HTTPS} off
+	RewriteRule ^.*$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+</IfModule>

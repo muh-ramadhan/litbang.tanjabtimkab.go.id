@@ -1,0 +1,45 @@
+div#show {
+	*float:left;
+    width:300px;
+   * height:200px;
+    *padding:20px;
+    *position:absolute;
+    *left:50%;
+    *margin-left:-120px;
+    *top:50%;
+   * margin-top:-160px;
+   * background:#40464b;
+    *border-radius:6px;
+}
+
+.tag-pro {
+	float:left;
+	border:1px solid #f55050;
+	border-radius:7px;
+	padding:1px 5px;
+	margin:0 8px 5px 0;
+}
+	
+input[type="checkbox"] {
+    display:none;
+}
+
+input[type="checkbox"] + label {
+    color:#333;
+    font-family:tahoma;
+    font-size:12px;
+}
+
+input[type="checkbox"] + label span {
+    display:inline-block;
+    width:19px;
+    height:19px;
+    margin:-1px 4px 0 0;
+    vertical-align:middle;
+    background:url(../images/check_radio_sheet.png) left top no-repeat;
+    cursor:pointer;
+}
+
+input[type="checkbox"]:checked + label span {
+    background:url(../images/check_radio_sheet.png) -19px top no-repeat;
+}

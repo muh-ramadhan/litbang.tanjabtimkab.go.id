@@ -1,0 +1,55 @@
+@font-face {font-family: 'franklingothicurwdemregular';src: url('../fonts/urw_-_franklingothicurwdem-webfont.eot');src: url('../fonts/urw_-_franklingothicurwdem-webfont.eot?#iefix') format('embedded-opentype'),url('../fonts/urw_-_franklingothicurwdem-webfont.woff') format('woff'),url('../fonts/urw_-_franklingothicurwdem-webfont.ttf') format('truetype'),url('../fonts/urw_-_franklingothicurwdem-webfont.svg#franklingothicurwdemregular') format('svg');font-weight: normal;font-style: normal;}
+@font-face {font-family: 'franklingothicurwbooregular';src: url('../fonts/urw_-_franklingothicurwboo-webfont.eot');src: url('../fonts/urw_-_franklingothicurwboo-webfont.eot?#iefix') format('embedded-opentype'),url('../fonts/urw_-_franklingothicurwboo-webfont.woff') format('woff'),url('../fonts/urw_-_franklingothicurwboo-webfont.ttf') format('truetype'),url('../fonts/urw_-_franklingothicurwboo-webfont.svg#franklingothicurwbooregular') format('svg');font-weight: normal;font-style: normal;}
+@font-face {font-family: 'franklingothicurwhearegular';src: url('../fonts/urw_-_franklingothicurwhea-webfont.eot');src: url('../fonts/urw_-_franklingothicurwhea-webfont.eot?#iefix') format('embedded-opentype'),url('../fonts/urw_-_franklingothicurwhea-webfont.woff') format('woff'),url('../fonts/urw_-_franklingothicurwhea-webfont.ttf') format('truetype'),url('../fonts/urw_-_franklingothicurwhea-webfont.svg#franklingothicurwhearegular') format('svg');font-weight: normal;font-style: normal;}
+@font-face {font-family: 'FranklinGothicURWDemRegular';src: url('../fonts/urw++-franklingothicurwdem.eot');src: url('../fonts/urw++-franklingothicurwdem.eot') format('embedded-opentype'),url('../fonts/urw++-franklingothicurwdem.woff') format('woff'),url('../fonts/urw++-franklingothicurwdem.ttf') format('truetype'),url('../fonts/urw++-franklingothicurwdem.svg#FranklinGothicURWDemRegular') format('svg');font-weight: normal;font-style: normal;}
+@font-face {font-family: 'FranklinGothicURWMedRegular';src: url('../fonts/urw++-franklingothicurwmed.eot'); src: url('../fonts/urw++-franklingothicurwmed.eot') format('embedded-opentype'),url('../fonts/urw++-franklingothicurwmed.woff') format('woff'),url('../fonts/urw++-franklingothicurwmed.ttf') format('truetype'),url('../fonts/urw++-franklingothicurwmed.svg#FranklinGothicURWMedRegular') format('svg');}
+
+
+ 
+@font-face {font-family: 'open_sanslight';src: url('../fonts/opensans-light-webfont.eot');src: url('../fonts/opensans-light-webfont.eot?#iefix') format('embedded-opentype'),url('../fonts/opensans-light-webfont.woff') format('woff'),url('../fonts/opensans-light-webfont.ttf') format('truetype');font-weight: normal;font-style: normal;}
+@font-face {font-family: 'open_sansregular';src: url('../fonts/opensans-regular-webfont.eot');src: url('../fonts/opensans-regular-webfont.eot?#iefix') format('embedded-opentype'),url('../fonts/opensans-regular-webfont.woff') format('woff'),url('../fonts/opensans-regular-webfont.ttf') format('truetype');font-weight: normal;font-style: normal; }
+@font-face { font-family: 'open_sansbold';src: url('../fonts/opensans-bold-webfont.eot');src: url('../fonts/opensans-bold-webfont.eot?#iefix') format('embedded-opentype'),url('../fonts/opensans-bold-webfont.woff') format('woff'),url('../fonts/opensans-bold-webfont.ttf') format('truetype');font-weight: normal;font-style: normal;} 
+
+@font-face{font-family:GothamBook;src:url(../fonts/Gotham-Book.eot);src:url(../fonts/Gotham-Book.eot?#iefix) format('embedded-opentype'),url(../fonts/Gotham-Book.woff) format('woff'),url(../fonts/Gotham-Book.ttf) format('truetype'),url(../fonts/Gotham-Book.svg#7510147900d23fa3ad697e74bf146ea2) format('svg');font-style:normal;font-weight:400}@font-face{font-family:GothamMedium;src:url(../fonts/Gotham-Medium.eot);src:url(../fonts/Gotham-Medium.eot?#iefix) format('embedded-opentype'),url(../fonts/Gotham-Medium.woff) format('woff'),url(../fonts/Gotham-Medium.ttf) format('truetype'),url(../fonts/Gotham-Medium.svg#bdc473fae2f64b1c45b8886bcff81bae) format('svg');font-style:normal;font-weight:400}@font-face{font-family:GothamBold;src:url(../fonts/Gotham-Bold.eot);src:url(../fonts/Gotham-Bold.eot?#iefix) format('embedded-opentype'),url('../fonts/Gotham-Bold.svg#Gotham Bold') format('svg'),url(../fonts/Gotham-Bold.woff) format('woff'),url(../fonts/Gotham-Bold.ttf) format('truetype');font-weight:400;font-style:normal}@font-face{font-family:icon;src:url(../fonts/icon-liputan6.eot);src:url(../fonts/icon-liputan6.eot#iefix) format('embedded-opentype'),url(../fonts/icon-liputan6.woff) format('woff'),url(../fonts/icon-liputan6.ttf) format('truetype'),url(../fonts/icon-liputan6.svg#icon-liputan6) format('svg');font-weight:400;font-style:normal}
+@font-face { font-family: 'open_sansbold';src: url('../fonts/opensans-bold-webfont.eot');src: url('../fonts/opensans-bold-webfont.eot?#iefix') format('embedded-opentype'),url('../fonts/opensans-bold-webfont.woff') format('woff'),url('../fonts/opensans-bold-webfont.ttf') format('truetype');font-weight: normal;font-style: normal;}
+@font-face{font-family:'FontAwesome';src:url('../fonts/fontawesome-webfont.eot?v=4.2.0');src:url('../fonts/fontawesome-webfont.eot?#iefix&v=4.2.0') format('embedded-opentype'),url('../fonts/fontawesome-webfont.woff?v=4.2.0') format('woff'),url('../fonts/fontawesome-webfont.ttf?v=4.2.0') format('truetype'),url('../fonts/fontawesome-webfont.svg?v=4.2.0#fontawesomeregular') format('svg');font-weight:400;font-style:normal} 
+
+ @font-face {
+    font-family: "Currents-Regular-Sans";
+    font-style: normal;
+    font-weight: 400;
+    src: local("Open Sans"), local("OpenSans"), url("../fonts/Currents-Regular-Sans1.woff") format("woff");
+}
+@font-face {
+    font-family: "Currents-Regular-Sans";
+    font-style: italic;
+    font-weight: 400;
+    src: local("Open Sans Italic"), local("OpenSans-Italic"), url("../fonts/Currents-Regular-Sans2.woff") format("woff");
+}
+@font-face {
+    font-family: "Currents-Regular-Sans";
+    font-style: normal;
+    font-weight: 700;
+    src: local("Open Sans Bold"), local("OpenSans-Bold"), url("../fonts/Currents-Regular-Sans3.woff") format("woff");
+}
+@font-face {
+    font-family: "Currents-Regular-Sans";
+    font-style: italic;
+    font-weight: bold;
+    src: local("Open Sans Bold Italic"), local("OpenSans-BoldItalic"), url("../fonts/Currents-Regular-Sans4.woff") format("woff");
+}
+
+@font-face{font-family:'Acta-Bold';src:url('../fonts/Acta-Bold.eot');src:url('../fonts/Acta-Bold.eot?#iefix') format('embedded-opentype'),url('../fonts/Acta-Bold.woff2') format('woff2'),url('../fonts/Acta-Bold.woff') format('woff'),url('../fonts/Acta-Bold.ttf') format('truetype');}
+
+@font-face{font-family:'Acta-Book';src:url('../fonts/Acta-Book.eot');src:url('../fonts/Acta-Book.eot?#iefix') format('embedded-opentype'),url('../fonts/Acta-Book.woff2') format('woff2'),url('../fonts/Acta-Book.woff') format('woff'),url('../fonts/Acta-Book.ttf') format('truetype');}
+
+@font-face{font-family:'BrandonGrotesqueWeb-Light';src:url('../fonts/BrandonGrotesqueWeb-Light.eot');src:url('../fonts/BrandonGrotesqueWeb-Light.eot?#iefix') format('embedded-opentype'),url('../fonts/BrandonGrotesqueWeb-Light.woff2') format('woff2'),url('../fonts/BrandonGrotesqueWeb-Light.woff') format('woff'),url('../fonts/BrandonGrotesqueWeb-Light.ttf') format('truetype');}
+
+@font-face{font-family:'BrandonGrotesqueWeb-Bold';src:url('../fonts/BrandonGrotesqueWeb-Bold.eot');src:url('../fonts/BrandonGrotesqueWeb-Bold.eot?#iefix') format('embedded-opentype'),url('../fonts/BrandonGrotesqueWeb-Bold.woff2') format('woff2'),url('../fonts/BrandonGrotesqueWeb-Bold.woff') format('woff'),url('../fonts/BrandonGrotesqueWeb-Bold.ttf') format('truetype');}
+
+@font-face{font-family:'BrandonGrotesqueWeb-Regular';src:url('../fonts/BrandonGrotesqueWeb-Regular.eot');src:url('../fonts/BrandonGrotesqueWeb-Regular.eot?#iefix') format('embedded-opentype'),url('../fonts/BrandonGrotesqueWeb-Regular.woff2') format('woff2'),url('../fonts/BrandonGrotesqueWeb-Regular.woff') format('woff'),url('../fonts/BrandonGrotesqueWeb-Regular.ttf') format('truetype');}
+
+@font-face{font-family:'BrandonGrotesqueWeb-Italic';src:url('../fonts/BrandonGrotesqueWeb-Italic.eot');src:url('../fonts/BrandonGrotesqueWeb-Italic.eot?#iefix') format('embedded-opentype'),url('../fonts/BrandonGrotesqueWeb-Italic.woff2') format('woff2'),url('../fonts/BrandonGrotesqueWeb-Italic.woff') format('woff'),url('../fonts/BrandonGrotesqueWeb-Italic.ttf') format('truetype');}
+
+@font-face{font-family:'BrandonGrotesqueWeb-Medium';src:url('../fonts/BrandonGrotesqueWeb-Medium.eot');src:url('../fonts/BrandonGrotesqueWeb-Medium.eot?#iefix') format('embedded-opentype'),url('../fonts/BrandonGrotesqueWeb-Medium.woff2') format('woff2'),url('../fonts/BrandonGrotesqueWeb-Medium.woff') format('woff'),url('../fonts/BrandonGrotesqueWeb-Medium.ttf') format('truetype');}
+

@@ -1,0 +1,1 @@
+var $=jQuery.noConflict();$(document).ready(function($){"use strict";$('.skill-shortcode').appear(function(){$('.progress').each(function(){$('.progress-bar').css('width',function(){return($(this).attr('data-percentage')+'%')});});},{accY:-100});});$(document).ready(function(){$("#owl-demo").owlCarousel({slideSpeed:300,paginationSpeed:400,singleItem:true});});
